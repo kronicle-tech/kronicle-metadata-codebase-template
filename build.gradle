@@ -2,4 +2,4 @@ plugins {
     id "base"
 }
 
-apply from: "gradle/component-metadata.gradle"
+apply from: "gradle/kronicle-metadata.gradle"

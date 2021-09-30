@@ -1,4 +1,4 @@
-# Component Metadata Template
+# Kronicle Metadata Codebase Template
 
 This repo contains a template for adding a `kronicle.yaml` file to a component's own codebase repo.
 
